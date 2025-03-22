@@ -6,7 +6,7 @@ A Sudoku game built with Python using `matplotlib` for the GUI and `ipywidgets` 
 - Timer to track the time spent
 - Difficulty levels (Easy, Medium, Hard)
 - Hint system (limited to 3 hints)
-- Save and load game progress
+
 
 ## Requirements:
 - matplotlib
@@ -17,7 +17,7 @@ A Sudoku game built with Python using `matplotlib` for the GUI and `ipywidgets` 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Sudoku-Game.git
+    git clone https://github.com/jadavbindupriya/Sudoku-Game.git
     ```
 2. Install the required dependencies:
     ```bash
