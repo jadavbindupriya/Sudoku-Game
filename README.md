@@ -32,4 +32,4 @@ A Sudoku game built with Python using `matplotlib` for the GUI and `ipywidgets` 
     - Choose **GitHub** and paste the repository link: `https://github.com/yourusername/Sudoku-Game.git`.
     - Select `sudoku_game.ipynb` to open the notebook.
 
-2. Run the notebook cells to start the game! 🎮
+2. Run the notebook cells to start the game!
